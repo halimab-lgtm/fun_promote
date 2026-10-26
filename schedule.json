@@ -47,10 +47,12 @@
       "status": "pending"
     },
     {
-      "date": "2026-10-28",
+      "date": "2026-10-26",
       "id": "p03_fact_toystory",
       "type": "image",
-      "status": "pending"
+      "status": "published",
+      "published_at": "2026-10-26T18:13+00:00",
+      "media_id": "17882570562628852"
     },
     {
       "date": "2026-10-29",
@@ -135,6 +137,18 @@
       "id": "r11_fact_godfather",
       "type": "reel",
       "status": "pending"
+    }
+  ],
+  "stories": [
+    {
+      "date": "2026-10-26",
+      "source": "r01_guess_film",
+      "media_id": "18345353125271444"
+    },
+    {
+      "date": "2026-10-26",
+      "source": "r02_series_binge",
+      "media_id": "18082765604359741"
     }
   ]
 }
