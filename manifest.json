@@ -1,0 +1,164 @@
+[
+  {
+    "id": "p01_intro",
+    "type": "image",
+    "files": [
+      "/home/claude/screnbites/kit/feed/p01_intro_01.jpg"
+    ],
+    "caption": "New page. One bite a day: a film, a series or a trailer worth your time. No spoilers, no 40-minute reviews.\n\nFollow along and tell us what you watched last.\n\n#screnbites #filmrecommendations #whattowatch #moviesuggestions #seriesrecommendations #movienight #filmlovers #cinephile"
+  },
+  {
+    "id": "p02_guess_film",
+    "type": "carousel",
+    "files": [
+      "/home/claude/screnbites/kit/feed/p02_guess_film_01.jpg",
+      "/home/claude/screnbites/kit/feed/p02_guess_film_02.jpg",
+      "/home/claude/screnbites/kit/feed/p02_guess_film_03.jpg",
+      "/home/claude/screnbites/kit/feed/p02_guess_film_04.jpg",
+      "/home/claude/screnbites/kit/feed/p02_guess_film_05.jpg"
+    ],
+    "caption": "Three clues. One film. How many did you need?\n\nDrop your answer before you swipe to the end.\n\n#screnbites #guessthemovie #moviequiz #filmtrivia #inception #movielovers #cinephile #filmquiz"
+  },
+  {
+    "id": "p03_fact_toystory",
+    "type": "image",
+    "files": [
+      "/home/claude/screnbites/kit/feed/p03_fact_toystory_01.jpg"
+    ],
+    "caption": "Before 1995, nobody had made a full-length film entirely in a computer. Then a cowboy and a space ranger changed the whole industry.\n\nWhat was the first animated film you remember seeing in a cinema?\n\n#screnbites #filmfacts #movietrivia #toystory #pixar #animation #didyouknow #filmhistory"
+  },
+  {
+    "id": "p04_this_or_that",
+    "type": "image",
+    "files": [
+      "/home/claude/screnbites/kit/feed/p04_this_or_that_01.jpg"
+    ],
+    "caption": "Friday night. Thirty minutes of scrolling. You know how this ends.\n\nA: the comfort film you have seen 11 times\nB: the new thing everyone is talking about\n\nA or B?\n\n#screnbites #thisorthat #movienight #comfortmovie #whattowatch #filmlovers #weekendwatch"
+  },
+  {
+    "id": "p05_weekend_picks",
+    "type": "carousel",
+    "files": [
+      "/home/claude/screnbites/kit/feed/p05_weekend_picks_01.jpg",
+      "/home/claude/screnbites/kit/feed/p05_weekend_picks_02.jpg",
+      "/home/claude/screnbites/kit/feed/p05_weekend_picks_03.jpg",
+      "/home/claude/screnbites/kit/feed/p05_weekend_picks_04.jpg"
+    ],
+    "caption": "Three films, three moods: one that makes you think, one that makes you grin, one that makes you feel ten years old again.\n\nSave this for Saturday. Which one first?\n\n#screnbites #weekendwatch #filmrecommendations #arrival #knivesout #spiritedaway #whattowatch #movienight"
+  },
+  {
+    "id": "p06_hot_take",
+    "type": "image",
+    "files": [
+      "/home/claude/screnbites/kit/feed/p06_hot_take_01.jpg"
+    ],
+    "caption": "Everyone has one. The sequel that quietly beat the original.\n\nName yours below and give us one sentence of defence.\n\n#screnbites #hottake #moviedebate #sequels #filmtwitter #movielovers #unpopularopinion"
+  },
+  {
+    "id": "p07_fact_jaws",
+    "type": "image",
+    "files": [
+      "/home/claude/screnbites/kit/feed/p07_fact_jaws_01.jpg"
+    ],
+    "caption": "The shark did not work. So you barely see it for the first hour, and your imagination does the rest.\n\nSometimes the thing that goes wrong is the thing that makes it great.\n\n#screnbites #filmfacts #jaws #spielberg #movietrivia #didyouknow #behindthescenes #filmhistory"
+  },
+  {
+    "id": "p08_guess_series",
+    "type": "carousel",
+    "files": [
+      "/home/claude/screnbites/kit/feed/p08_guess_series_01.jpg",
+      "/home/claude/screnbites/kit/feed/p08_guess_series_02.jpg",
+      "/home/claude/screnbites/kit/feed/p08_guess_series_03.jpg",
+      "/home/claude/screnbites/kit/feed/p08_guess_series_04.jpg",
+      "/home/claude/screnbites/kit/feed/p08_guess_series_05.jpg"
+    ],
+    "caption": "Three clues, one series. Be honest about which clue got you.\n\n#screnbites #guesstheshow #tvquiz #breakingbad #seriesrecommendations #tvtrivia #bingewatch"
+  },
+  {
+    "id": "p09_rate",
+    "type": "image",
+    "files": [
+      "/home/claude/screnbites/kit/feed/p09_rate_01.jpg"
+    ],
+    "caption": "No reviews. Just a title and a number.\n\nWhat did you watch last, and what did you give it out of 10?\n\n#screnbites #whattowatch #movierating #lastwatched #filmlovers #seriesrecommendations #movienight"
+  },
+  {
+    "id": "r01_guess_film",
+    "type": "reel",
+    "stills": [
+      [
+        "/home/claude/screnbites/kit/reels/stills/r01_guess_film_01.png",
+        2.2
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r01_guess_film_02.png",
+        3.0
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r01_guess_film_03.png",
+        2.6
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r01_guess_film_04.png",
+        3.0
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r01_guess_film_05.png",
+        3.0
+      ]
+    ],
+    "caption": "Three clues, one film. Comment the clue that gave it away.\n\n#screnbites #guessthemovie #moviequiz #filmtrivia #jurassicpark #reels #movielovers",
+    "video": "/home/claude/screnbites/kit/reels/r01_guess_film.mp4",
+    "duration": 15.8
+  },
+  {
+    "id": "r02_series_binge",
+    "type": "reel",
+    "stills": [
+      [
+        "/home/claude/screnbites/kit/reels/stills/r02_series_binge_01.png",
+        2.2
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r02_series_binge_02.png",
+        3.0
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r02_series_binge_03.png",
+        3.0
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r02_series_binge_04.png",
+        3.0
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r02_series_binge_05.png",
+        2.4
+      ]
+    ],
+    "caption": "Three series, three very different weeks. Save it, pick one, report back.\n\n#screnbites #bingewatch #seriesrecommendations #severance #thebear #dark #whattowatch #reels",
+    "video": "/home/claude/screnbites/kit/reels/r02_series_binge.mp4",
+    "duration": 15.6
+  },
+  {
+    "id": "r03_fact_matrix",
+    "type": "reel",
+    "stills": [
+      [
+        "/home/claude/screnbites/kit/reels/stills/r03_fact_matrix_01.png",
+        2.2
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r03_fact_matrix_02.png",
+        4.2
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r03_fact_matrix_03.png",
+        3.2
+      ]
+    ],
+    "caption": "One effect, about 120 still cameras, one room. Now your phone does it for free.\n\n#screnbites #filmfacts #thematrix #movietrivia #behindthescenes #didyouknow #reels",
+    "video": "/home/claude/screnbites/kit/reels/r03_fact_matrix.mp4",
+    "duration": 10.6
+  }
+]
