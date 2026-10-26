@@ -518,6 +518,33 @@
         }
       ],
       "caption": "The most famous cat in cinema was a stray that wandered onto the lot. Sometimes the best idea is the one nobody planned.\n\n#screnbites #filmfacts #thegodfather #movietrivia #behindthescenes #didyouknow #reels"
+    },
+    {
+      "id": "r12_lupin",
+      "label": "TRENDING",
+      "silent": true,
+      "hook": "Number one in the world right now.",
+      "scenes": [
+        {
+          "headline": "*Lupin*, Part 4",
+          "sub": "Out since 23 October. Already number one on Netflix worldwide.",
+          "poster": "lupin.jpg",
+          "anchor": 0.25
+        },
+        {
+          "headline": "A gentleman thief in Paris, still three steps ahead of everyone.",
+          "backdrop": "lupin.jpg",
+          "dur": 3.6,
+          "size": 92
+        },
+        {
+          "headline": "Watched it yet? Rate it *1 to 10* below.",
+          "backdrop": "lupin.jpg",
+          "dur": 3.0,
+          "size": 92
+        }
+      ],
+      "caption": "Lupin Part 4 dropped on 23 October and it is already the number one series on Netflix worldwide. Watched it yet? Rate it 1 to 10 below.\n\n@netflix @omarsyofficial\n\n#lupin #lupinpart4 #omarsy #netflix #netflixseries #whattowatch #seriesrecommendations #bingewatch #tvseries #reelsinstagram #explorepage #screnbites"
     }
   ]
 }
