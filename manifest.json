@@ -108,8 +108,7 @@
       ]
     ],
     "caption": "Three clues, one film. Comment the clue that gave it away.\n\n#screnbites #guessthemovie #moviequiz #filmtrivia #jurassicpark #reels #movielovers",
-    "video": "/home/claude/screnbites/kit/reels/r01_guess_film.mp4",
-    "duration": 15.8
+    "video": "/home/claude/screnbites/kit/reels/r01_guess_film.mp4"
   },
   {
     "id": "r02_series_binge",
@@ -137,8 +136,7 @@
       ]
     ],
     "caption": "Three series, three very different weeks. Save it, pick one, report back.\n\n#screnbites #bingewatch #seriesrecommendations #severance #thebear #dark #whattowatch #reels",
-    "video": "/home/claude/screnbites/kit/reels/r02_series_binge.mp4",
-    "duration": 15.6
+    "video": "/home/claude/screnbites/kit/reels/r02_series_binge.mp4"
   },
   {
     "id": "r03_fact_matrix",
@@ -158,7 +156,218 @@
       ]
     ],
     "caption": "One effect, about 120 still cameras, one room. Now your phone does it for free.\n\n#screnbites #filmfacts #thematrix #movietrivia #behindthescenes #didyouknow #reels",
-    "video": "/home/claude/screnbites/kit/reels/r03_fact_matrix.mp4",
-    "duration": 10.6
+    "video": "/home/claude/screnbites/kit/reels/r03_fact_matrix.mp4"
+  },
+  {
+    "id": "r04_guess_bttf",
+    "type": "reel",
+    "stills": [
+      [
+        "/home/claude/screnbites/kit/reels/stills/r04_guess_bttf_01.png",
+        2.2
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r04_guess_bttf_02.png",
+        3.0
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r04_guess_bttf_03.png",
+        2.6
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r04_guess_bttf_04.png",
+        3.0
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r04_guess_bttf_05.png",
+        3.0
+      ]
+    ],
+    "caption": "Three clues, one film. Which one gave it away?\n\n#screnbites #guessthemovie #moviequiz #filmtrivia #backtothefuture #80smovies #reels",
+    "video": "/home/claude/screnbites/kit/reels/r04_guess_bttf.mp4",
+    "duration": 15.8
+  },
+  {
+    "id": "r05_rainy_sunday",
+    "type": "reel",
+    "stills": [
+      [
+        "/home/claude/screnbites/kit/reels/stills/r05_rainy_sunday_01.png",
+        2.2
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r05_rainy_sunday_02.png",
+        3.0
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r05_rainy_sunday_03.png",
+        3.0
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r05_rainy_sunday_04.png",
+        3.0
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r05_rainy_sunday_05.png",
+        2.4
+      ]
+    ],
+    "caption": "Rain outside, three options inside. Save it for Sunday and tell us which one you picked.\n\n#screnbites #filmrecommendations #whattowatch #paddington2 #littlewomen #amelie #cosymovies #reels",
+    "video": "/home/claude/screnbites/kit/reels/r05_rainy_sunday.mp4",
+    "duration": 15.6
+  },
+  {
+    "id": "r06_fact_lotr",
+    "type": "reel",
+    "stills": [
+      [
+        "/home/claude/screnbites/kit/reels/stills/r06_fact_lotr_01.png",
+        2.2
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r06_fact_lotr_02.png",
+        4.6
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r06_fact_lotr_03.png",
+        3.0
+      ]
+    ],
+    "caption": "Three films shot in one go, before anyone knew the first would work. The gamble paid off.\n\n#screnbites #filmfacts #lordoftherings #movietrivia #behindthescenes #didyouknow #reels",
+    "video": "/home/claude/screnbites/kit/reels/r06_fact_lotr.mp4",
+    "duration": 10.8
+  },
+  {
+    "id": "r07_guess_strangerthings",
+    "type": "reel",
+    "stills": [
+      [
+        "/home/claude/screnbites/kit/reels/stills/r07_guess_strangerthings_01.png",
+        2.2
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r07_guess_strangerthings_02.png",
+        2.8
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r07_guess_strangerthings_03.png",
+        3.0
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r07_guess_strangerthings_04.png",
+        3.0
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r07_guess_strangerthings_05.png",
+        3.0
+      ]
+    ],
+    "caption": "Three clues, one series. Be honest about which clue got you.\n\n#screnbites #guesstheshow #tvquiz #strangerthings #seriesrecommendations #tvtrivia #reels",
+    "video": "/home/claude/screnbites/kit/reels/r07_guess_strangerthings.mp4",
+    "duration": 16.0
+  },
+  {
+    "id": "r08_cinema_or_sofa",
+    "type": "reel",
+    "stills": [
+      [
+        "/home/claude/screnbites/kit/reels/stills/r08_cinema_or_sofa_01.png",
+        2.2
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r08_cinema_or_sofa_02.png",
+        3.4
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r08_cinema_or_sofa_03.png",
+        3.2
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r08_cinema_or_sofa_04.png",
+        2.4
+      ]
+    ],
+    "caption": "There is a right answer and we will not be telling you what it is. A or B?\n\n#screnbites #thisorthat #movienight #cinema #filmlovers #whattowatch #reels",
+    "video": "/home/claude/screnbites/kit/reels/r08_cinema_or_sofa.mp4",
+    "duration": 12.7
+  },
+  {
+    "id": "r09_guess_truman",
+    "type": "reel",
+    "stills": [
+      [
+        "/home/claude/screnbites/kit/reels/stills/r09_guess_truman_01.png",
+        2.2
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r09_guess_truman_02.png",
+        3.0
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r09_guess_truman_03.png",
+        2.8
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r09_guess_truman_04.png",
+        3.0
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r09_guess_truman_05.png",
+        3.0
+      ]
+    ],
+    "caption": "Three clues, one film. Comment the clue that gave it away.\n\n#screnbites #guessthemovie #moviequiz #filmtrivia #thetrumanshow #90smovies #reels",
+    "video": "/home/claude/screnbites/kit/reels/r09_guess_truman.mp4",
+    "duration": 16.0
+  },
+  {
+    "id": "r10_series_everyone_finished",
+    "type": "reel",
+    "stills": [
+      [
+        "/home/claude/screnbites/kit/reels/stills/r10_series_everyone_finished_01.png",
+        2.4
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r10_series_everyone_finished_02.png",
+        3.0
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r10_series_everyone_finished_03.png",
+        3.0
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r10_series_everyone_finished_04.png",
+        3.0
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r10_series_everyone_finished_05.png",
+        2.4
+      ]
+    ],
+    "caption": "The three series people will not stop recommending to you. Pick one and get it over with.\n\n#screnbites #bingewatch #seriesrecommendations #succession #fleabag #thewire #whattowatch #reels",
+    "video": "/home/claude/screnbites/kit/reels/r10_series_everyone_finished.mp4",
+    "duration": 15.8
+  },
+  {
+    "id": "r11_fact_godfather",
+    "type": "reel",
+    "stills": [
+      [
+        "/home/claude/screnbites/kit/reels/stills/r11_fact_godfather_01.png",
+        2.4
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r11_fact_godfather_02.png",
+        4.6
+      ],
+      [
+        "/home/claude/screnbites/kit/reels/stills/r11_fact_godfather_03.png",
+        3.2
+      ]
+    ],
+    "caption": "The most famous cat in cinema was a stray that wandered onto the lot. Sometimes the best idea is the one nobody planned.\n\n#screnbites #filmfacts #thegodfather #movietrivia #behindthescenes #didyouknow #reels",
+    "video": "/home/claude/screnbites/kit/reels/r11_fact_godfather.mp4",
+    "duration": 11.2
   }
 ]

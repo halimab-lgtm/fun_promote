@@ -4,7 +4,11 @@
       "id": "p01_intro",
       "label": "HELLO",
       "slides": [
-        {"headline": "Screen time, *bite-sized*.", "sub": "One pick a day. Films, series, trailers worth your time. Zero spoilers.", "right": "new here"}
+        {
+          "headline": "Screen time, *bite-sized*.",
+          "sub": "One pick a day. Films, series, trailers worth your time. Zero spoilers.",
+          "right": "new here"
+        }
       ],
       "caption": "New page. One bite a day: a film, a series or a trailer worth your time. No spoilers, no 40-minute reviews.\n\nFollow along and tell us what you watched last.\n\n#screnbites #filmrecommendations #whattowatch #moviesuggestions #seriesrecommendations #movienight #filmlovers #cinephile"
     },
@@ -12,11 +16,27 @@
       "id": "p02_guess_film",
       "label": "3 CLUES",
       "slides": [
-        {"headline": "Guess the *film* from 3 clues.", "sub": "Swipe. No cheating."},
-        {"kicker": "Clue 1", "headline": "A thief who breaks into dreams to steal ideas."},
-        {"kicker": "Clue 2", "headline": "A spinning top that may or may not fall."},
-        {"kicker": "Clue 3", "headline": "A hotel corridor fight with no gravity."},
-        {"kicker": "Answer", "headline": "*Inception* (2010)", "sub": "Got it before clue 3? Say so in the comments."}
+        {
+          "headline": "Guess the *film* from 3 clues.",
+          "sub": "Swipe. No cheating."
+        },
+        {
+          "kicker": "Clue 1",
+          "headline": "A thief who breaks into dreams to steal ideas."
+        },
+        {
+          "kicker": "Clue 2",
+          "headline": "A spinning top that may or may not fall."
+        },
+        {
+          "kicker": "Clue 3",
+          "headline": "A hotel corridor fight with no gravity."
+        },
+        {
+          "kicker": "Answer",
+          "headline": "*Inception* (2010)",
+          "sub": "Got it before clue 3? Say so in the comments."
+        }
       ],
       "caption": "Three clues. One film. How many did you need?\n\nDrop your answer before you swipe to the end.\n\n#screnbites #guessthemovie #moviequiz #filmtrivia #inception #movielovers #cinephile #filmquiz"
     },
@@ -24,7 +44,11 @@
       "id": "p03_fact_toystory",
       "label": "FILM FACT",
       "slides": [
-        {"headline": "*Toy Story* (1995) was the first feature film made entirely with computer animation.", "sub": "81 minutes. A whole industry followed.", "size": 84}
+        {
+          "headline": "*Toy Story* (1995) was the first feature film made entirely with computer animation.",
+          "sub": "81 minutes. A whole industry followed.",
+          "size": 84
+        }
       ],
       "caption": "Before 1995, nobody had made a full-length film entirely in a computer. Then a cowboy and a space ranger changed the whole industry.\n\nWhat was the first animated film you remember seeing in a cinema?\n\n#screnbites #filmfacts #movietrivia #toystory #pixar #animation #didyouknow #filmhistory"
     },
@@ -33,7 +57,11 @@
       "label": "THIS OR THAT",
       "coral": true,
       "slides": [
-        {"headline": "Rewatch a *comfort film* or start something *new*?", "sub": "Pick one in the comments.", "right": "you decide"}
+        {
+          "headline": "Rewatch a *comfort film* or start something *new*?",
+          "sub": "Pick one in the comments.",
+          "right": "you decide"
+        }
       ],
       "caption": "Friday night. Thirty minutes of scrolling. You know how this ends.\n\nA: the comfort film you have seen 11 times\nB: the new thing everyone is talking about\n\nA or B?\n\n#screnbites #thisorthat #movienight #comfortmovie #whattowatch #filmlovers #weekendwatch"
     },
@@ -41,10 +69,25 @@
       "id": "p05_weekend_picks",
       "label": "WEEKEND PICKS",
       "slides": [
-        {"headline": "3 films to watch *this weekend*.", "sub": "Swipe for the picks."},
-        {"kicker": "Pick 1", "headline": "*Arrival* (2016)", "sub": "A linguist, twelve ships, and a question about time."},
-        {"kicker": "Pick 2", "headline": "*Knives Out* (2019)", "sub": "A whodunit with a cable-knit sweater and a very good detective."},
-        {"kicker": "Pick 3", "headline": "*Spirited Away* (2001)", "sub": "A bathhouse for spirits. Hand-drawn. Still unmatched."}
+        {
+          "headline": "3 films to watch *this weekend*.",
+          "sub": "Swipe for the picks."
+        },
+        {
+          "kicker": "Pick 1",
+          "headline": "*Arrival* (2016)",
+          "sub": "A linguist, twelve ships, and a question about time."
+        },
+        {
+          "kicker": "Pick 2",
+          "headline": "*Knives Out* (2019)",
+          "sub": "A whodunit with a cable-knit sweater and a very good detective."
+        },
+        {
+          "kicker": "Pick 3",
+          "headline": "*Spirited Away* (2001)",
+          "sub": "A bathhouse for spirits. Hand-drawn. Still unmatched."
+        }
       ],
       "caption": "Three films, three moods: one that makes you think, one that makes you grin, one that makes you feel ten years old again.\n\nSave this for Saturday. Which one first?\n\n#screnbites #weekendwatch #filmrecommendations #arrival #knivesout #spiritedaway #whattowatch #movienight"
     },
@@ -53,7 +96,11 @@
       "label": "HOT TAKE",
       "coral": true,
       "slides": [
-        {"headline": "The *sequel* was better than the original.", "sub": "Name one. Defend it.", "right": "fight nicely"}
+        {
+          "headline": "The *sequel* was better than the original.",
+          "sub": "Name one. Defend it.",
+          "right": "fight nicely"
+        }
       ],
       "caption": "Everyone has one. The sequel that quietly beat the original.\n\nName yours below and give us one sentence of defence.\n\n#screnbites #hottake #moviedebate #sequels #filmtwitter #movielovers #unpopularopinion"
     },
@@ -61,7 +108,11 @@
       "id": "p07_fact_jaws",
       "label": "FILM FACT",
       "slides": [
-        {"headline": "The mechanical shark in *Jaws* (1975) kept breaking down. So the film shows it less, and got scarier.", "sub": "Sometimes the limit is the trick.", "size": 78}
+        {
+          "headline": "The mechanical shark in *Jaws* (1975) kept breaking down. So the film shows it less, and got scarier.",
+          "sub": "Sometimes the limit is the trick.",
+          "size": 78
+        }
       ],
       "caption": "The shark did not work. So you barely see it for the first hour, and your imagination does the rest.\n\nSometimes the thing that goes wrong is the thing that makes it great.\n\n#screnbites #filmfacts #jaws #spielberg #movietrivia #didyouknow #behindthescenes #filmhistory"
     },
@@ -69,11 +120,27 @@
       "id": "p08_guess_series",
       "label": "3 CLUES",
       "slides": [
-        {"headline": "Guess the *series* from 3 clues.", "sub": "Swipe. Still no cheating."},
-        {"kicker": "Clue 1", "headline": "A chemistry teacher gets bad news and a new career."},
-        {"kicker": "Clue 2", "headline": "An RV in the New Mexico desert."},
-        {"kicker": "Clue 3", "headline": "Blue."},
-        {"kicker": "Answer", "headline": "*Breaking Bad* (2008–2013)", "sub": "One clue too many? Tell us."}
+        {
+          "headline": "Guess the *series* from 3 clues.",
+          "sub": "Swipe. Still no cheating."
+        },
+        {
+          "kicker": "Clue 1",
+          "headline": "A chemistry teacher gets bad news and a new career."
+        },
+        {
+          "kicker": "Clue 2",
+          "headline": "An RV in the New Mexico desert."
+        },
+        {
+          "kicker": "Clue 3",
+          "headline": "Blue."
+        },
+        {
+          "kicker": "Answer",
+          "headline": "*Breaking Bad* (2008–2013)",
+          "sub": "One clue too many? Tell us."
+        }
       ],
       "caption": "Three clues, one series. Be honest about which clue got you.\n\n#screnbites #guesstheshow #tvquiz #breakingbad #seriesrecommendations #tvtrivia #bingewatch"
     },
@@ -81,7 +148,11 @@
       "id": "p09_rate",
       "label": "YOUR TURN",
       "slides": [
-        {"headline": "Rate the *last thing* you watched. 1 to 10.", "sub": "Title + score. Go.", "right": "comments open"}
+        {
+          "headline": "Rate the *last thing* you watched. 1 to 10.",
+          "sub": "Title + score. Go.",
+          "right": "comments open"
+        }
       ],
       "caption": "No reviews. Just a title and a number.\n\nWhat did you watch last, and what did you give it out of 10?\n\n#screnbites #whattowatch #movierating #lastwatched #filmlovers #seriesrecommendations #movienight"
     }
@@ -91,11 +162,32 @@
       "id": "r01_guess_film",
       "label": "3 CLUES",
       "scenes": [
-        {"headline": "Guess the *film* from 3 clues.", "sub": "Answer at the end.", "dur": 2.2},
-        {"kicker": "Clue 1", "headline": "An island theme park opens early for a test weekend.", "dur": 3.0},
-        {"kicker": "Clue 2", "headline": "A glass of water starts to ripple.", "dur": 2.6},
-        {"kicker": "Clue 3", "headline": "A kitchen. Two kids. Two very patient raptors.", "dur": 3.0},
-        {"kicker": "Answer", "headline": "*Jurassic Park* (1993)", "sub": "Which clue got you?", "dur": 3.0}
+        {
+          "headline": "Guess the *film* from 3 clues.",
+          "sub": "Answer at the end.",
+          "dur": 2.2
+        },
+        {
+          "kicker": "Clue 1",
+          "headline": "An island theme park opens early for a test weekend.",
+          "dur": 3.0
+        },
+        {
+          "kicker": "Clue 2",
+          "headline": "A glass of water starts to ripple.",
+          "dur": 2.6
+        },
+        {
+          "kicker": "Clue 3",
+          "headline": "A kitchen. Two kids. Two very patient raptors.",
+          "dur": 3.0
+        },
+        {
+          "kicker": "Answer",
+          "headline": "*Jurassic Park* (1993)",
+          "sub": "Which clue got you?",
+          "dur": 3.0
+        }
       ],
       "caption": "Three clues, one film. Comment the clue that gave it away.\n\n#screnbites #guessthemovie #moviequiz #filmtrivia #jurassicpark #reels #movielovers"
     },
@@ -103,11 +195,33 @@
       "id": "r02_series_binge",
       "label": "BINGE LIST",
       "scenes": [
-        {"headline": "3 series to *binge* this week.", "dur": 2.2},
-        {"kicker": "1", "headline": "*Severance*", "sub": "Work you. Home you. Never the same person.", "dur": 3.0},
-        {"kicker": "2", "headline": "*The Bear*", "sub": "A kitchen so tense you will need a break after each episode.", "dur": 3.0},
-        {"kicker": "3", "headline": "*Dark*", "sub": "A German town, a cave, and a timeline you will draw on paper.", "dur": 3.0},
-        {"headline": "Save this for *later*.", "sub": "Which one first?", "dur": 2.4}
+        {
+          "headline": "3 series to *binge* this week.",
+          "dur": 2.2
+        },
+        {
+          "kicker": "1",
+          "headline": "*Severance*",
+          "sub": "Work you. Home you. Never the same person.",
+          "dur": 3.0
+        },
+        {
+          "kicker": "2",
+          "headline": "*The Bear*",
+          "sub": "A kitchen so tense you will need a break after each episode.",
+          "dur": 3.0
+        },
+        {
+          "kicker": "3",
+          "headline": "*Dark*",
+          "sub": "A German town, a cave, and a timeline you will draw on paper.",
+          "dur": 3.0
+        },
+        {
+          "headline": "Save this for *later*.",
+          "sub": "Which one first?",
+          "dur": 2.4
+        }
       ],
       "caption": "Three series, three very different weeks. Save it, pick one, report back.\n\n#screnbites #bingewatch #seriesrecommendations #severance #thebear #dark #whattowatch #reels"
     },
@@ -116,11 +230,261 @@
       "label": "FILM FACT",
       "coral": true,
       "scenes": [
-        {"headline": "That slow-motion *bullet dodge*?", "dur": 2.2},
-        {"headline": "*The Matrix* (1999) shot it with a ring of about 120 still cameras firing one after another.", "size": 96, "dur": 4.2},
-        {"headline": "Now the effect is on every phone.", "sub": "It started with a room full of cameras.", "dur": 3.2}
+        {
+          "headline": "That slow-motion *bullet dodge*?",
+          "dur": 2.2
+        },
+        {
+          "headline": "*The Matrix* (1999) shot it with a ring of about 120 still cameras firing one after another.",
+          "size": 96,
+          "dur": 4.2
+        },
+        {
+          "headline": "Now the effect is on every phone.",
+          "sub": "It started with a room full of cameras.",
+          "dur": 3.2
+        }
       ],
       "caption": "One effect, about 120 still cameras, one room. Now your phone does it for free.\n\n#screnbites #filmfacts #thematrix #movietrivia #behindthescenes #didyouknow #reels"
+    },
+    {
+      "id": "r04_guess_bttf",
+      "label": "3 CLUES",
+      "scenes": [
+        {
+          "headline": "Guess the *film* from 3 clues.",
+          "sub": "Answer at the end.",
+          "dur": 2.2
+        },
+        {
+          "kicker": "Clue 1",
+          "headline": "A teenager, a car, and one very specific speed.",
+          "dur": 3.0
+        },
+        {
+          "kicker": "Clue 2",
+          "headline": "A clock tower and a lightning storm.",
+          "dur": 2.6
+        },
+        {
+          "kicker": "Clue 3",
+          "headline": "His parents are younger than he is.",
+          "dur": 3.0
+        },
+        {
+          "kicker": "Answer",
+          "headline": "*Back to the Future* (1985)",
+          "sub": "Which clue got you?",
+          "dur": 3.0
+        }
+      ],
+      "caption": "Three clues, one film. Which one gave it away?\n\n#screnbites #guessthemovie #moviequiz #filmtrivia #backtothefuture #80smovies #reels"
+    },
+    {
+      "id": "r05_rainy_sunday",
+      "label": "PICKS",
+      "scenes": [
+        {
+          "headline": "3 films for a *rainy Sunday*.",
+          "dur": 2.2
+        },
+        {
+          "kicker": "1",
+          "headline": "*Paddington 2*",
+          "sub": "A bear goes to prison. Somehow the kindest film ever made.",
+          "dur": 3.0
+        },
+        {
+          "kicker": "2",
+          "headline": "*Little Women* (2019)",
+          "sub": "Four sisters, one attic, a lot of ink.",
+          "dur": 3.0
+        },
+        {
+          "kicker": "3",
+          "headline": "*Amélie*",
+          "sub": "Paris, a garden gnome, and a stranger's happiness.",
+          "dur": 3.0
+        },
+        {
+          "headline": "Save this for *Sunday*.",
+          "sub": "Which one first?",
+          "dur": 2.4
+        }
+      ],
+      "caption": "Rain outside, three options inside. Save it for Sunday and tell us which one you picked.\n\n#screnbites #filmrecommendations #whattowatch #paddington2 #littlewomen #amelie #cosymovies #reels"
+    },
+    {
+      "id": "r06_fact_lotr",
+      "label": "FILM FACT",
+      "coral": true,
+      "scenes": [
+        {
+          "headline": "Three films. *One* shoot.",
+          "dur": 2.2
+        },
+        {
+          "headline": "All three *Lord of the Rings* films were shot back to back in New Zealand, about 438 days of filming, before the first one was released.",
+          "size": 84,
+          "dur": 4.6
+        },
+        {
+          "headline": "Nobody knew yet if anyone would watch.",
+          "sub": "A very expensive bet.",
+          "dur": 3.0
+        }
+      ],
+      "caption": "Three films shot in one go, before anyone knew the first would work. The gamble paid off.\n\n#screnbites #filmfacts #lordoftherings #movietrivia #behindthescenes #didyouknow #reels"
+    },
+    {
+      "id": "r07_guess_strangerthings",
+      "label": "3 CLUES",
+      "scenes": [
+        {
+          "headline": "Guess the *series* from 3 clues.",
+          "sub": "Answer at the end.",
+          "dur": 2.2
+        },
+        {
+          "kicker": "Clue 1",
+          "headline": "A small town in 1980s Indiana.",
+          "dur": 2.8
+        },
+        {
+          "kicker": "Clue 2",
+          "headline": "A girl with a shaved head and a thing for waffles.",
+          "dur": 3.0
+        },
+        {
+          "kicker": "Clue 3",
+          "headline": "Christmas lights used as an alphabet.",
+          "dur": 3.0
+        },
+        {
+          "kicker": "Answer",
+          "headline": "*Stranger Things*",
+          "sub": "One clue too many?",
+          "dur": 3.0
+        }
+      ],
+      "caption": "Three clues, one series. Be honest about which clue got you.\n\n#screnbites #guesstheshow #tvquiz #strangerthings #seriesrecommendations #tvtrivia #reels"
+    },
+    {
+      "id": "r08_cinema_or_sofa",
+      "label": "THIS OR THAT",
+      "coral": true,
+      "scenes": [
+        {
+          "headline": "*Cinema* or *sofa*?",
+          "dur": 2.2
+        },
+        {
+          "kicker": "A",
+          "headline": "Big screen. Strangers. Popcorn that costs more than the ticket.",
+          "size": 96,
+          "dur": 3.4
+        },
+        {
+          "kicker": "B",
+          "headline": "Pause button. Your blanket. Your snacks.",
+          "size": 96,
+          "dur": 3.2
+        },
+        {
+          "headline": "A or B. *Comment* it.",
+          "dur": 2.4
+        }
+      ],
+      "caption": "There is a right answer and we will not be telling you what it is. A or B?\n\n#screnbites #thisorthat #movienight #cinema #filmlovers #whattowatch #reels"
+    },
+    {
+      "id": "r09_guess_truman",
+      "label": "3 CLUES",
+      "scenes": [
+        {
+          "headline": "Guess the *film* from 3 clues.",
+          "sub": "Answer at the end.",
+          "dur": 2.2
+        },
+        {
+          "kicker": "Clue 1",
+          "headline": "A man whose whole town is a television set.",
+          "dur": 3.0
+        },
+        {
+          "kicker": "Clue 2",
+          "headline": "A stage light falls out of a clear blue sky.",
+          "dur": 2.8
+        },
+        {
+          "kicker": "Clue 3",
+          "headline": "He sails to the edge of the world and finds a door.",
+          "dur": 3.0
+        },
+        {
+          "kicker": "Answer",
+          "headline": "*The Truman Show* (1998)",
+          "sub": "Which clue got you?",
+          "dur": 3.0
+        }
+      ],
+      "caption": "Three clues, one film. Comment the clue that gave it away.\n\n#screnbites #guessthemovie #moviequiz #filmtrivia #thetrumanshow #90smovies #reels"
+    },
+    {
+      "id": "r10_series_everyone_finished",
+      "label": "BINGE LIST",
+      "scenes": [
+        {
+          "headline": "3 series *everyone* finished but you.",
+          "dur": 2.4
+        },
+        {
+          "kicker": "1",
+          "headline": "*Succession*",
+          "sub": "A family, a company, and nobody you would want at dinner.",
+          "dur": 3.0
+        },
+        {
+          "kicker": "2",
+          "headline": "*Fleabag*",
+          "sub": "Twelve episodes. She looks at the camera. You will too.",
+          "dur": 3.0
+        },
+        {
+          "kicker": "3",
+          "headline": "*The Wire*",
+          "sub": "Baltimore, patiently. Still the one people argue is the best.",
+          "dur": 3.0
+        },
+        {
+          "headline": "Save it. Start *tonight*.",
+          "sub": "Which one?",
+          "dur": 2.4
+        }
+      ],
+      "caption": "The three series people will not stop recommending to you. Pick one and get it over with.\n\n#screnbites #bingewatch #seriesrecommendations #succession #fleabag #thewire #whattowatch #reels"
+    },
+    {
+      "id": "r11_fact_godfather",
+      "label": "FILM FACT",
+      "coral": true,
+      "scenes": [
+        {
+          "headline": "The cat was *not* in the script.",
+          "dur": 2.4
+        },
+        {
+          "headline": "The cat Marlon Brando holds in the opening of *The Godfather* (1972) was a stray the director found on the studio lot and handed to him.",
+          "size": 84,
+          "dur": 4.6
+        },
+        {
+          "headline": "Its purring was so loud some lines had to be re-recorded.",
+          "sub": "Best unplanned casting ever.",
+          "dur": 3.2
+        }
+      ],
+      "caption": "The most famous cat in cinema was a stray that wandered onto the lot. Sometimes the best idea is the one nobody planned.\n\n#screnbites #filmfacts #thegodfather #movietrivia #behindthescenes #didyouknow #reels"
     }
   ]
 }
