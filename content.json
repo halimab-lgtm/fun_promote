@@ -242,20 +242,25 @@
       "scenes": [
         {
           "headline": "That slow-motion *bullet dodge*?",
-          "dur": 2.2
+          "dur": 2.2,
+          "poster": "the_matrix.jpg",
+          "anchor": 0.3
         },
         {
           "headline": "*The Matrix* (1999) shot it with a ring of about 120 still cameras firing one after another.",
-          "size": 96,
-          "dur": 4.2
+          "size": 84,
+          "dur": 4.4,
+          "backdrop": "the_matrix.jpg"
         },
         {
           "headline": "Now the effect is on every phone.",
           "sub": "It started with a room full of cameras.",
-          "dur": 3.2
+          "dur": 3.2,
+          "backdrop": "the_matrix.jpg"
         }
       ],
-      "caption": "One effect, about 120 still cameras, one room. Now your phone does it for free.\n\n#screnbites #filmfacts #thematrix #movietrivia #behindthescenes #didyouknow #reels"
+      "caption": "One effect, about 120 still cameras, one room. Now your phone does it for free.\n\n#screnbites #filmfacts #thematrix #movietrivia #behindthescenes #didyouknow #reels",
+      "hook": "Film fact you didn't know."
     },
     {
       "id": "r04_guess_bttf",
@@ -287,11 +292,14 @@
         {
           "kicker": "Answer",
           "headline": "*Back to the Future* (1985)",
-          "sub": "Which clue got you?",
-          "dur": 3.0
+          "sub": "Which clue got you? Comment it.",
+          "dur": 3.0,
+          "poster": "back_to_the_future.jpg",
+          "anchor": 0.3
         }
       ],
-      "caption": "Three clues, one film. Which one gave it away?\n\n#screnbites #guessthemovie #moviequiz #filmtrivia #backtothefuture #80smovies #reels"
+      "caption": "Three clues, one film. Which one gave it away?\n\n#screnbites #guessthemovie #moviequiz #filmtrivia #backtothefuture #80smovies #reels",
+      "hook": "Guess the film from 3 clues."
     },
     {
       "id": "r05_rainy_sunday",

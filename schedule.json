@@ -42,10 +42,11 @@
       "note": "scheduled 21:00"
     },
     {
-      "date": "2026-10-28",
+      "date": "2026-10-27",
       "id": "r04_guess_bttf",
       "type": "reel",
-      "status": "pending"
+      "status": "pending",
+      "cover": "media/covers/r04_guess_bttf.jpg"
     },
     {
       "date": "2026-10-26",
@@ -56,13 +57,14 @@
       "media_id": "17882570562628852"
     },
     {
-      "date": "2026-10-29",
+      "date": "2026-10-27",
       "id": "r03_fact_matrix",
       "type": "reel",
-      "status": "pending"
+      "status": "pending",
+      "cover": "media/covers/r03_fact_matrix.jpg"
     },
     {
-      "date": "2026-10-29",
+      "date": "2026-10-27",
       "id": "p04_this_or_that",
       "type": "image",
       "status": "pending"
@@ -151,5 +153,6 @@
       "source": "r02_series_binge",
       "media_id": "18082765604359741"
     }
-  ]
+  ],
+  "pre_post_routine": "Before every post: web-search the day's film/TV news and the Netflix worldwide top 10; add 1-2 timely hashtags; swap in a seasonal post if a big story breaks (Halloween week 26 Oct-1 Nov)."
 }
