@@ -203,27 +203,37 @@
           "kicker": "1",
           "headline": "*Severance*",
           "sub": "Work you. Home you. Never the same person.",
-          "dur": 3.0
+          "dur": 3.0,
+          "mood": "office",
+          "poster": "severance.jpg",
+          "anchor": 0.15
         },
         {
           "kicker": "2",
           "headline": "*The Bear*",
           "sub": "A kitchen so tense you will need a break after each episode.",
-          "dur": 3.0
+          "dur": 3.0,
+          "mood": "kitchen",
+          "poster": "the_bear.jpg",
+          "anchor": 0.4
         },
         {
           "kicker": "3",
           "headline": "*Dark*",
           "sub": "A German town, a cave, and a timeline you will draw on paper.",
-          "dur": 3.0
+          "dur": 3.0,
+          "mood": "forest",
+          "poster": "dark.jpg",
+          "anchor": 0.45
         },
         {
-          "headline": "Save this for *later*.",
-          "sub": "Which one first?",
+          "headline": "Save this. Start *tonight*.",
+          "sub": "Which one first? Tell us in the comments.",
           "dur": 2.4
         }
       ],
-      "caption": "Three series, three very different weeks. Save it, pick one, report back.\n\n#severance #thebear #darknetflix #bingewatch #seriesrecommendations #tvseries #whattowatch #netflix #appletv #movies #reelsinstagram #explorepage #screnbites"
+      "caption": "Three series, three very different weeks. Save it, pick one, report back.\n\n#severance #thebear #darknetflix #bingewatch #seriesrecommendations #tvseries #whattowatch #netflix #appletv #movies #reelsinstagram #explorepage #screnbites",
+      "hook": "3 series everyone finished but you."
     },
     {
       "id": "r03_fact_matrix",
@@ -259,17 +269,20 @@
         {
           "kicker": "Clue 1",
           "headline": "A teenager, a car, and one very specific speed.",
-          "dur": 3.0
+          "dur": 3.0,
+          "mood": "night"
         },
         {
           "kicker": "Clue 2",
           "headline": "A clock tower and a lightning storm.",
-          "dur": 2.6
+          "dur": 2.6,
+          "mood": "night"
         },
         {
           "kicker": "Clue 3",
           "headline": "His parents are younger than he is.",
-          "dur": 3.0
+          "dur": 3.0,
+          "mood": "night"
         },
         {
           "kicker": "Answer",
@@ -292,19 +305,22 @@
           "kicker": "1",
           "headline": "*Paddington 2*",
           "sub": "A bear goes to prison. Somehow the kindest film ever made.",
-          "dur": 3.0
+          "dur": 3.0,
+          "mood": "snow"
         },
         {
           "kicker": "2",
           "headline": "*Little Women* (2019)",
           "sub": "Four sisters, one attic, a lot of ink.",
-          "dur": 3.0
+          "dur": 3.0,
+          "mood": "kitchen"
         },
         {
           "kicker": "3",
           "headline": "*Amélie*",
           "sub": "Paris, a garden gnome, and a stranger's happiness.",
-          "dur": 3.0
+          "dur": 3.0,
+          "mood": "night"
         },
         {
           "headline": "Save this for *Sunday*.",
@@ -348,17 +364,20 @@
         {
           "kicker": "Clue 1",
           "headline": "A small town in 1980s Indiana.",
-          "dur": 2.8
+          "dur": 2.8,
+          "mood": "night"
         },
         {
           "kicker": "Clue 2",
           "headline": "A girl with a shaved head and a thing for waffles.",
-          "dur": 3.0
+          "dur": 3.0,
+          "mood": "forest"
         },
         {
           "kicker": "Clue 3",
           "headline": "Christmas lights used as an alphabet.",
-          "dur": 3.0
+          "dur": 3.0,
+          "mood": "night"
         },
         {
           "kicker": "Answer",
@@ -409,17 +428,20 @@
         {
           "kicker": "Clue 1",
           "headline": "A man whose whole town is a television set.",
-          "dur": 3.0
+          "dur": 3.0,
+          "mood": "office"
         },
         {
           "kicker": "Clue 2",
           "headline": "A stage light falls out of a clear blue sky.",
-          "dur": 2.8
+          "dur": 2.8,
+          "mood": "night"
         },
         {
           "kicker": "Clue 3",
           "headline": "He sails to the edge of the world and finds a door.",
-          "dur": 3.0
+          "dur": 3.0,
+          "mood": "snow"
         },
         {
           "kicker": "Answer",
@@ -442,19 +464,22 @@
           "kicker": "1",
           "headline": "*Succession*",
           "sub": "A family, a company, and nobody you would want at dinner.",
-          "dur": 3.0
+          "dur": 3.0,
+          "mood": "night"
         },
         {
           "kicker": "2",
           "headline": "*Fleabag*",
           "sub": "Twelve episodes. She looks at the camera. You will too.",
-          "dur": 3.0
+          "dur": 3.0,
+          "mood": "office"
         },
         {
           "kicker": "3",
           "headline": "*The Wire*",
           "sub": "Baltimore, patiently. Still the one people argue is the best.",
-          "dur": 3.0
+          "dur": 3.0,
+          "mood": "forest"
         },
         {
           "headline": "Save it. Start *tonight*.",
