@@ -1,19 +1,87 @@
 {
-  "account": {"connector": "instagram", "account_id": "17841462776683377", "username": "screnbites"},
+  "account": {
+    "connector": "instagram",
+    "account_id": "17841462776683377",
+    "username": "screnbites"
+  },
   "base_url": "https://raw.githubusercontent.com/halimab-lgtm/fun_promote/main/",
   "post_time_local": "19:00 Europe/Dublin",
   "items": [
-    {"date": "2026-10-26", "id": "p01_intro", "type": "image", "status": "pending"},
-    {"date": "2026-10-26", "id": "r01_guess_film", "type": "reel", "status": "pending"},
-    {"date": "2026-10-27", "id": "p02_guess_film", "type": "carousel", "status": "pending"},
-    {"date": "2026-10-28", "id": "p03_fact_toystory", "type": "image", "status": "pending"},
-    {"date": "2026-10-29", "id": "p04_this_or_that", "type": "image", "status": "pending"},
-    {"date": "2026-10-29", "id": "r02_series_binge", "type": "reel", "status": "pending"},
-    {"date": "2026-10-30", "id": "p05_weekend_picks", "type": "carousel", "status": "pending"},
-    {"date": "2026-10-31", "id": "p06_hot_take", "type": "image", "status": "pending"},
-    {"date": "2026-11-01", "id": "p07_fact_jaws", "type": "image", "status": "pending"},
-    {"date": "2026-11-01", "id": "r03_fact_matrix", "type": "reel", "status": "pending"},
-    {"date": "2026-11-02", "id": "p08_guess_series", "type": "carousel", "status": "pending"},
-    {"date": "2026-11-03", "id": "p09_rate", "type": "image", "status": "pending"}
+    {
+      "date": "2026-10-26",
+      "id": "p01_intro",
+      "type": "image",
+      "status": "published",
+      "permalink": "https://www.instagram.com/p/De9zlaZkbGV/",
+      "published_at": "2026-10-26T17:22+00:00"
+    },
+    {
+      "date": "2026-10-26",
+      "id": "r01_guess_film",
+      "type": "reel",
+      "status": "published",
+      "permalink": "https://www.instagram.com/reel/De9zvXySNSJ/",
+      "published_at": "2026-10-26T17:22+00:00"
+    },
+    {
+      "date": "2026-10-27",
+      "id": "p02_guess_film",
+      "type": "carousel",
+      "status": "pending"
+    },
+    {
+      "date": "2026-10-28",
+      "id": "p03_fact_toystory",
+      "type": "image",
+      "status": "pending"
+    },
+    {
+      "date": "2026-10-29",
+      "id": "p04_this_or_that",
+      "type": "image",
+      "status": "pending"
+    },
+    {
+      "date": "2026-10-29",
+      "id": "r02_series_binge",
+      "type": "reel",
+      "status": "pending"
+    },
+    {
+      "date": "2026-10-30",
+      "id": "p05_weekend_picks",
+      "type": "carousel",
+      "status": "pending"
+    },
+    {
+      "date": "2026-10-31",
+      "id": "p06_hot_take",
+      "type": "image",
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-01",
+      "id": "p07_fact_jaws",
+      "type": "image",
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-01",
+      "id": "r03_fact_matrix",
+      "type": "reel",
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "p08_guess_series",
+      "type": "carousel",
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-03",
+      "id": "p09_rate",
+      "type": "image",
+      "status": "pending"
+    }
   ]
 }
