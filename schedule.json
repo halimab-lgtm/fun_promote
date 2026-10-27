@@ -38,8 +38,9 @@
       "date": "2026-10-27",
       "id": "p02_guess_film",
       "type": "carousel",
-      "status": "pending",
-      "note": "held on 26 Oct so the Lupin Reel ran alone; post 27 Oct 19:00"
+      "status": "published",
+      "published_at": "2026-10-27T09:20+00:00",
+      "media_id": "18040351490841498"
     },
     {
       "date": "2026-10-27",
