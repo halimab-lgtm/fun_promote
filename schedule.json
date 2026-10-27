@@ -181,5 +181,12 @@
       "media_id": "18082765604359741"
     }
   ],
-  "pre_post_routine": "Before every post: web-search the day's film/TV news and the Netflix worldwide top 10; add 1-2 timely hashtags; swap in a seasonal post if a big story breaks (Halloween week 26 Oct-1 Nov)."
+  "pre_post_routine": "Before every post: web-search the day's film/TV news and the Netflix worldwide top 10; add 1-2 timely hashtags; swap in a seasonal post if a big story breaks (Halloween week 26 Oct-1 Nov).",
+  "tiktok": {
+    "connector": "tiktok_organic",
+    "account_id": "_0004PPx9GhybjM7DcYC7ULVngrFTtGGCSkz",
+    "username": "screnbites",
+    "url": "https://www.tiktok.com/@screnbites",
+    "note": "personal account; posting from the app only; stats via Windsor.ai"
+  }
 }
