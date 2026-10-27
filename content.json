@@ -523,11 +523,11 @@
       "id": "r12_lupin",
       "label": "TRENDING",
       "silent": true,
-      "hook": "Number one in the world right now.",
+      "hook": "Number one on Netflix right now.",
       "scenes": [
         {
           "headline": "*Lupin*, Part 4",
-          "sub": "Out since 23 October. Already number one on Netflix worldwide.",
+          "sub": "Out since 23 October. Already number one worldwide.",
           "poster": "lupin.jpg",
           "anchor": 0.25
         },
@@ -538,13 +538,15 @@
           "size": 92
         },
         {
-          "headline": "Watched it yet? Rate it *1 to 10* below.",
+          "headline": "Seen it? Rate it *1 to 10* below.",
           "backdrop": "lupin.jpg",
           "dur": 3.0,
           "size": 92
         }
       ],
-      "caption": "Lupin Part 4 dropped on 23 October and it is already the number one series on Netflix worldwide. Watched it yet? Rate it 1 to 10 below.\n\n@netflix @omarsyofficial\n\n#lupin #lupinpart4 #omarsy #netflix #netflixseries #whattowatch #seriesrecommendations #bingewatch #tvseries #reelsinstagram #explorepage #screnbites"
+      "caption": "Lupin Part 4 dropped on 23 October and it is already the number one series on Netflix worldwide. Watched it yet? Rate it 1 to 10 below.\n\n@netflix @omarsyofficial\n\n#lupin #lupinpart4 #omarsy #netflix #netflixseries #whattowatch #seriesrecommendations #bingewatch #tvseries #reelsinstagram #explorepage #screnbites",
+      "instant": true,
+      "hook_size": 56
     }
   ]
 }
