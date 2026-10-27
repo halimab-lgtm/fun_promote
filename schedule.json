@@ -147,9 +147,9 @@
       "id": "r12_lupin",
       "type": "reel",
       "status": "published",
-      "published_at": "2026-10-26T20:12+00:00",
-      "media_id": "18129823895491469",
-      "note": "posted from the app with music; poster cut"
+      "published_at": "2026-10-27T16:47+00:00",
+      "media_id": "18009719891781957",
+      "note": "re-cut posted from app; first upload (18129823895491469) deleted"
     },
     {
       "date": "2026-10-27",
@@ -158,6 +158,15 @@
       "status": "pending",
       "note": "Halloween week; post from app with The Shining theme",
       "cover": "media/covers/r14_guess_shining.jpg"
+    },
+    {
+      "date": "2026-10-27",
+      "id": "r13_guess_inception",
+      "type": "reel",
+      "status": "published",
+      "published_at": "2026-10-27T09:33+00:00",
+      "media_id": "18397018864205154",
+      "note": "posted from app"
     }
   ],
   "stories": [
