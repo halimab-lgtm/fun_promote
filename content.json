@@ -547,6 +547,40 @@
       "caption": "Lupin Part 4 dropped on 23 October and it is already the number one series on Netflix worldwide. Watched it yet? Rate it 1 to 10 below.\n\n@netflix @omarsyofficial\n\n#lupin #lupinpart4 #omarsy #netflix #netflixseries #whattowatch #seriesrecommendations #bingewatch #tvseries #reelsinstagram #explorepage #screnbites",
       "instant": true,
       "hook_size": 56
+    },
+    {
+      "id": "r13_guess_inception",
+      "label": "3 CLUES",
+      "instant": true,
+      "hook": "Guess the film from 3 clues.",
+      "scenes": [
+        {
+          "kicker": "Clue 1",
+          "headline": "A thief who breaks into dreams to steal ideas.",
+          "mood": "night",
+          "size": 100
+        },
+        {
+          "kicker": "Clue 2",
+          "headline": "A spinning top that may or may not fall.",
+          "mood": "night",
+          "size": 100
+        },
+        {
+          "kicker": "Clue 3",
+          "headline": "A hotel corridor fight with no gravity.",
+          "mood": "night",
+          "size": 100
+        },
+        {
+          "kicker": "Answer",
+          "headline": "*Inception* (2010)",
+          "sub": "Got it before clue 3? Say so below.",
+          "poster": "inception.jpg",
+          "anchor": 0.45
+        }
+      ],
+      "caption": "Three clues. One film. How many did you need?\n\nDrop your answer before the reveal.\n\n#inception #christophernolan #guessthemovie #moviequiz #filmtrivia #movies #film #cinema #movielovers #cinephile #moviebuff #reelsinstagram #explorepage #screnbites"
     }
   ]
 }
