@@ -43,7 +43,7 @@
       "media_id": "18040351490841498"
     },
     {
-      "date": "2026-10-27",
+      "date": "2026-11-02",
       "id": "r04_guess_bttf",
       "type": "reel",
       "status": "pending",
@@ -58,14 +58,14 @@
       "media_id": "17882570562628852"
     },
     {
-      "date": "2026-10-27",
+      "date": "2026-11-02",
       "id": "r03_fact_matrix",
       "type": "reel",
       "status": "pending",
       "cover": "media/covers/r03_fact_matrix.jpg"
     },
     {
-      "date": "2026-10-27",
+      "date": "2026-11-02",
       "id": "p04_this_or_that",
       "type": "image",
       "status": "pending"
@@ -150,6 +150,14 @@
       "published_at": "2026-10-26T20:12+00:00",
       "media_id": "18129823895491469",
       "note": "posted from the app with music; poster cut"
+    },
+    {
+      "date": "2026-10-27",
+      "id": "r14_guess_shining",
+      "type": "reel",
+      "status": "pending",
+      "note": "Halloween week; post from app with The Shining theme",
+      "cover": "media/covers/r14_guess_shining.jpg"
     }
   ],
   "stories": [

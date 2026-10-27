@@ -586,6 +586,42 @@
       ],
       "caption": "Three clues. One film. How many did you need?\n\nDrop your answer before the reveal.\n\n#inception #christophernolan #guessthemovie #moviequiz #filmtrivia #movies #film #cinema #movielovers #cinephile #moviebuff #reelsinstagram #explorepage #screnbites",
       "silent": true
+    },
+    {
+      "id": "r14_guess_shining",
+      "label": "HALLOWEEN",
+      "instant": true,
+      "silent": true,
+      "coral": true,
+      "hook": "Guess the horror film from 3 clues.",
+      "scenes": [
+        {
+          "kicker": "Clue 1",
+          "headline": "A winter caretaker job at an empty mountain hotel.",
+          "mood": "snow",
+          "size": 96
+        },
+        {
+          "kicker": "Clue 2",
+          "headline": "Two girls at the end of a corridor.",
+          "mood": "snow",
+          "size": 100
+        },
+        {
+          "kicker": "Clue 3",
+          "headline": "A typewriter, one sentence, hundreds of pages.",
+          "mood": "snow",
+          "size": 96
+        },
+        {
+          "kicker": "Answer",
+          "headline": "*The Shining* (1980)",
+          "sub": "Which clue got you? Comment it.",
+          "poster": "the_shining.jpg",
+          "anchor": 0.4
+        }
+      ],
+      "caption": "Halloween week, day one. Three clues, one horror film. Which clue gave it away?\n\n#theshining #halloween #halloweenmovies #horrormovies #spookyseason #guessthemovie #moviequiz #filmtrivia #stanleykubrick #movies #horrorfan #reelsinstagram #explorepage #screnbites"
     }
   ]
 }
