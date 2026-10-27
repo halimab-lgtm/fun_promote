@@ -260,7 +260,9 @@
         }
       ],
       "caption": "One effect, about 120 still cameras, one room. Now your phone does it for free.\n\n#screnbites #filmfacts #thematrix #movietrivia #behindthescenes #didyouknow #reels",
-      "hook": "Film fact you didn't know."
+      "hook": "Film fact you didn't know.",
+      "silent": true,
+      "instant": true
     },
     {
       "id": "r04_guess_bttf",
@@ -299,7 +301,9 @@
         }
       ],
       "caption": "Three clues, one film. Which one gave it away?\n\n#screnbites #guessthemovie #moviequiz #filmtrivia #backtothefuture #80smovies #reels",
-      "hook": "Guess the film from 3 clues."
+      "hook": "Guess the film from 3 clues.",
+      "silent": true,
+      "instant": true
     },
     {
       "id": "r05_rainy_sunday",
