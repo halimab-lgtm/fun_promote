@@ -622,6 +622,46 @@
         }
       ],
       "caption": "Halloween week, day one. Three clues, one horror film. Which clue gave it away?\n\n#theshining #halloween #halloweenmovies #horrormovies #spookyseason #guessthemovie #moviequiz #filmtrivia #stanleykubrick #movies #horrorfan #reelsinstagram #explorepage #screnbites"
+    },
+    {
+      "id": "r15_horror_haters",
+      "label": "HALLOWEEN",
+      "instant": true,
+      "silent": true,
+      "coral": true,
+      "hook_size": 50,
+      "hook": "Horror for people who hate horror.",
+      "scenes": [
+        {
+          "kicker": "1",
+          "headline": "*Shaun of the Dead*",
+          "sub": "Zombies, a cricket bat, and the funniest film ever made about the end of the world.",
+          "poster": "shaun_of_the_dead.jpg",
+          "anchor": 0.42
+        },
+        {
+          "kicker": "2",
+          "headline": "*Beetlejuice Beetlejuice*",
+          "sub": "Tim Burton's ghost with the worst manners is back, and it is a party.",
+          "poster": "beetlejuice.jpg",
+          "anchor": 0.35,
+          "size": 84
+        },
+        {
+          "kicker": "3",
+          "headline": "*Ghostbusters*",
+          "sub": "Four scientists, one giant marshmallow, zero actual scares.",
+          "poster": "ghostbusters_crop.jpg",
+          "anchor": 0.5
+        },
+        {
+          "headline": "Save this for *Halloween night*.",
+          "sub": "Which one are you watching?",
+          "size": 92
+        }
+      ],
+      "caption": "Halloween week, day two. Three horror films for people who hate horror. Which one are you watching?\n\n#halloween #halloweenmovies #shaunofthedead #beetlejuice #ghostbusters #horrorcomedy #spookyseason #whattowatch #movies #filmrecommendations #reelsinstagram #explorepage #screnbites",
+      "caption_tiktok": "Horror films for people who hate horror 🎃 Which one are you watching?\n#halloween #halloweenmovies #shaunofthedead #beetlejuice #ghostbusters #filmtok #movietok #whattowatch #fyp"
     }
   ]
 }

@@ -155,9 +155,11 @@
       "date": "2026-10-27",
       "id": "r14_guess_shining",
       "type": "reel",
-      "status": "pending",
+      "status": "published",
       "note": "Halloween week; post from app with The Shining theme",
-      "cover": "media/covers/r14_guess_shining.jpg"
+      "cover": "media/covers/r14_guess_shining.jpg",
+      "published_at": "2026-10-27T19:43+00:00",
+      "media_id": "17963943222219049"
     },
     {
       "date": "2026-10-27",
@@ -167,6 +169,14 @@
       "published_at": "2026-10-27T09:33+00:00",
       "media_id": "18397018864205154",
       "note": "posted from app"
+    },
+    {
+      "date": "2026-10-28",
+      "id": "r15_horror_haters",
+      "type": "reel",
+      "status": "pending",
+      "note": "Halloween day two; post from app on IG and TikTok with Day-O or Ghostbusters theme",
+      "cover": "media/covers/r15_horror_haters.jpg"
     }
   ],
   "stories": [
