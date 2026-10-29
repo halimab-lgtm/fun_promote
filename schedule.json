@@ -84,12 +84,6 @@
     },
     {
       "date": "2026-10-31",
-      "id": "r07_guess_strangerthings",
-      "type": "reel",
-      "status": "pending"
-    },
-    {
-      "date": "2026-10-31",
       "id": "p06_hot_take",
       "type": "image",
       "status": "pending"
@@ -182,12 +176,28 @@
       "tiktok_video_id": "7701870624905366806"
     },
     {
-      "date": "2026-10-29",
+      "date": "2026-11-02",
       "id": "r16_fact_shining",
       "type": "reel",
       "status": "pending",
-      "note": "Halloween day three; IG + TikTok from app, Shining theme",
+      "note": "Shining typewriter fact; held for next week (or TikTok-only extra)",
       "cover": "media/covers/r16_fact_shining.jpg"
+    },
+    {
+      "date": "2026-10-29",
+      "id": "r17_fact_halloween",
+      "type": "reel",
+      "status": "pending",
+      "note": "Halloween day three (tonight); IG + TikTok from app, Halloween theme",
+      "cover": "media/covers/r17_fact_halloween.jpg"
+    },
+    {
+      "date": "2026-10-30",
+      "id": "r18_guess_strangerthings",
+      "type": "reel",
+      "status": "pending",
+      "note": "Halloween day four; IG + TikTok from app, Stranger Things theme",
+      "cover": "media/covers/r18_guess_strangerthings.jpg"
     }
   ],
   "stories": [

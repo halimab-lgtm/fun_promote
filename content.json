@@ -694,6 +694,78 @@
       ],
       "caption": "Halloween week, day three. The 'all work and no play' pages in The Shining were not translated with subtitles. Kubrick had them retyped with a different proverb for the Italian, German, Spanish and French releases.\n\n#theshining #halloween #halloweenmovies #filmfacts #movietrivia #stanleykubrick #horrormovies #didyouknow #spookyseason #movies #reelsinstagram #explorepage #screnbites",
       "caption_tiktok": "The Shining typed its scariest page five times 👀 #theshining #halloween #filmfacts #movietrivia #kubrick #horrortok #filmtok #fyp"
+    },
+    {
+      "id": "r17_fact_halloween",
+      "label": "HALLOWEEN",
+      "instant": true,
+      "silent": true,
+      "coral": true,
+      "hook_size": 50,
+      "hook": "Film fact you didn't know.",
+      "scenes": [
+        {
+          "headline": "The scariest mask in horror cost about *two dollars*.",
+          "poster": "halloween1978.jpg",
+          "anchor": 0.35,
+          "size": 80
+        },
+        {
+          "headline": "Halloween (1978) had almost no budget, so the crew bought a Captain Kirk mask from a costume shop, painted it white and widened the eyes.",
+          "backdrop": "halloween1978.jpg",
+          "dur": 5.2,
+          "size": 72
+        },
+        {
+          "headline": "William Shatner's face, blank and white, became *Michael Myers*.",
+          "backdrop": "halloween1978.jpg",
+          "dur": 3.6,
+          "size": 84,
+          "sub": "Which horror mask scares you most?"
+        }
+      ],
+      "caption": "Halloween week. The Michael Myers mask was a Captain Kirk mask from a costume shop, bought for about two dollars, painted white, eyes widened. One of the scariest faces in cinema is William Shatner.\n\n#halloween #halloweenmovies #michaelmyers #johncarpenter #filmfacts #movietrivia #horrormovies #didyouknow #spookyseason #movies #reelsinstagram #explorepage #screnbites",
+      "caption_tiktok": "The Michael Myers mask cost two dollars 👀 #halloween #michaelmyers #filmfacts #movietrivia #horrortok #filmtok #spookyseason #fyp"
+    },
+    {
+      "id": "r18_guess_strangerthings",
+      "label": "3 CLUES",
+      "instant": true,
+      "silent": true,
+      "hook_size": 50,
+      "hook": "Guess the series from 3 clues.",
+      "scenes": [
+        {
+          "kicker": "Clue 1",
+          "headline": "A small town in 1980s Indiana.",
+          "backdrop": "stranger_things.jpg",
+          "dur": 2.8,
+          "size": 100
+        },
+        {
+          "kicker": "Clue 2",
+          "headline": "A girl with a shaved head and a thing for waffles.",
+          "backdrop": "stranger_things.jpg",
+          "dur": 3.2,
+          "size": 96
+        },
+        {
+          "kicker": "Clue 3",
+          "headline": "Christmas lights used as an alphabet.",
+          "backdrop": "stranger_things.jpg",
+          "dur": 3.0,
+          "size": 100
+        },
+        {
+          "kicker": "Answer",
+          "headline": "*Stranger Things*",
+          "sub": "Which clue got you? Comment it.",
+          "poster": "stranger_things.jpg",
+          "anchor": 0.3
+        }
+      ],
+      "caption": "Halloween week. Three clues, one series. Which clue gave it away?\n\n#strangerthings #halloween #guesstheshow #tvquiz #netflix #seriesrecommendations #spookyseason #tvtrivia #reelsinstagram #explorepage #screnbites",
+      "caption_tiktok": "Three clues, one series. Which one got you? 👀 #strangerthings #guesstheshow #netflix #tvtok #filmtok #halloween #fyp"
     }
   ]
 }
