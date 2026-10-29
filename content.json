@@ -662,6 +662,38 @@
       ],
       "caption": "Halloween week, day two. Three horror films for people who hate horror. Which one are you watching?\n\n#halloween #halloweenmovies #shaunofthedead #beetlejuice #ghostbusters #horrorcomedy #spookyseason #whattowatch #movies #filmrecommendations #reelsinstagram #explorepage #screnbites",
       "caption_tiktok": "Horror films for people who hate horror 🎃 Which one are you watching?\n#halloween #halloweenmovies #shaunofthedead #beetlejuice #ghostbusters #filmtok #movietok #whattowatch #fyp"
+    },
+    {
+      "id": "r16_fact_shining",
+      "label": "HALLOWEEN",
+      "instant": true,
+      "silent": true,
+      "coral": true,
+      "hook_size": 50,
+      "hook": "Film fact you didn't know.",
+      "scenes": [
+        {
+          "headline": "The scariest page in *The Shining* was typed five times.",
+          "poster": "the_shining.jpg",
+          "anchor": 0.4,
+          "size": 80
+        },
+        {
+          "headline": "For the Italian, German, Spanish and French releases, Kubrick had the 'all work and no play' pages retyped with a different proverb in each language.",
+          "backdrop": "the_shining.jpg",
+          "dur": 5.0,
+          "size": 72
+        },
+        {
+          "headline": "Most films add subtitles. Kubrick retyped the madness.",
+          "backdrop": "the_shining.jpg",
+          "dur": 3.4,
+          "size": 88,
+          "sub": "Which language would you want to find in that typewriter?"
+        }
+      ],
+      "caption": "Halloween week, day three. The 'all work and no play' pages in The Shining were not translated with subtitles. Kubrick had them retyped with a different proverb for the Italian, German, Spanish and French releases.\n\n#theshining #halloween #halloweenmovies #filmfacts #movietrivia #stanleykubrick #horrormovies #didyouknow #spookyseason #movies #reelsinstagram #explorepage #screnbites",
+      "caption_tiktok": "The Shining typed its scariest page five times 👀 #theshining #halloween #filmfacts #movietrivia #kubrick #horrortok #filmtok #fyp"
     }
   ]
 }

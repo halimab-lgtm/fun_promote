@@ -174,9 +174,20 @@
       "date": "2026-10-28",
       "id": "r15_horror_haters",
       "type": "reel",
-      "status": "pending",
+      "status": "published",
       "note": "Halloween day two; post from app on IG and TikTok with Day-O or Ghostbusters theme",
-      "cover": "media/covers/r15_horror_haters.jpg"
+      "cover": "media/covers/r15_horror_haters.jpg",
+      "published_at": "2026-10-28T18:39+00:00",
+      "media_id": "18170290786494432",
+      "tiktok_video_id": "7701870624905366806"
+    },
+    {
+      "date": "2026-10-29",
+      "id": "r16_fact_shining",
+      "type": "reel",
+      "status": "pending",
+      "note": "Halloween day three; IG + TikTok from app, Shining theme",
+      "cover": "media/covers/r16_fact_shining.jpg"
     }
   ],
   "stories": [
