@@ -766,6 +766,85 @@
       ],
       "caption": "Halloween week. Three clues, one series. Which clue gave it away?\n\n#strangerthings #halloween #guesstheshow #tvquiz #netflix #seriesrecommendations #spookyseason #tvtrivia #reelsinstagram #explorepage #screnbites",
       "caption_tiktok": "Three clues, one series. Which one got you? 👀 #strangerthings #guesstheshow #netflix #tvtok #filmtok #halloween #fyp"
+    },
+    {
+      "id": "r19_halloween_night",
+      "label": "HALLOWEEN",
+      "instant": true,
+      "silent": true,
+      "coral": true,
+      "hook_size": 50,
+      "hook": "Halloween night. Pick your fear level.",
+      "scenes": [
+        {
+          "kicker": "Level 1 · Laughs",
+          "headline": "*Beetlejuice Beetlejuice*",
+          "sub": "Ghosts, a sandworm and zero nightmares. Safe for the whole sofa.",
+          "poster": "beetlejuice.jpg",
+          "anchor": 0.35,
+          "size": 80
+        },
+        {
+          "kicker": "Level 2 · Chills",
+          "headline": "*Stranger Things*",
+          "sub": "One episode, then one more, then it is 2 a.m.",
+          "poster": "stranger_things.jpg",
+          "anchor": 0.3
+        },
+        {
+          "kicker": "Level 3 · Lights on",
+          "headline": "*Halloween* (1978)",
+          "sub": "The one the night is named after. Lock the door first.",
+          "poster": "halloween1978.jpg",
+          "anchor": 0.35
+        },
+        {
+          "kicker": "Level 4 · Do not watch alone",
+          "headline": "*The Shining*",
+          "sub": "Two hours in the Overlook. Good luck sleeping.",
+          "poster": "the_shining.jpg",
+          "anchor": 0.4
+        },
+        {
+          "headline": "Which level are you *tonight*?",
+          "sub": "Comment 1, 2, 3 or 4.",
+          "size": 96
+        }
+      ],
+      "caption": "Happy Halloween. Four picks for tonight, by how scared you want to be. Comment your level: 1, 2, 3 or 4.\n\n#halloween #halloweennight #halloweenmovies #horrormovies #beetlejuice #strangerthings #michaelmyers #theshining #whattowatch #spookyseason #movies #reelsinstagram #explorepage #screnbites",
+      "caption_tiktok": "Halloween night: pick your fear level 1 to 4 🎃 #halloween #halloweenmovies #horrortok #filmtok #whattowatch #beetlejuice #strangerthings #theshining #fyp"
+    },
+    {
+      "id": "r20_halloween_night_fact",
+      "label": "HALLOWEEN",
+      "instant": true,
+      "silent": true,
+      "coral": true,
+      "hook_size": 50,
+      "hook": "Film fact for Halloween night.",
+      "scenes": [
+        {
+          "headline": "Beetlejuice is on screen for about *17 minutes*.",
+          "poster": "beetlejuice.jpg",
+          "anchor": 0.35,
+          "size": 80
+        },
+        {
+          "headline": "In the 1988 original, Michael Keaton's ghost appears for roughly 17 minutes of a 92-minute film. Everyone remembers him as the lead.",
+          "backdrop": "beetlejuice.jpg",
+          "dur": 5.0,
+          "size": 72
+        },
+        {
+          "headline": "Say his name three times and he still steals the whole film.",
+          "backdrop": "beetlejuice.jpg",
+          "dur": 3.4,
+          "size": 84,
+          "sub": "Which character stole a film in 17 minutes or less?"
+        }
+      ],
+      "caption": "Halloween fact. In the 1988 Beetlejuice, Michael Keaton is on screen for about 17 minutes of a 92-minute film. Everyone remembers him as the lead.\n\n#halloween #beetlejuice #michaelkeaton #timburton #filmfacts #movietrivia #halloweenmovies #didyouknow #spookyseason #movies #reelsinstagram #explorepage #screnbites",
+      "caption_tiktok": "Beetlejuice is in Beetlejuice for 17 minutes 👀 #beetlejuice #halloween #filmfacts #movietrivia #timburton #filmtok #fyp"
     }
   ]
 }

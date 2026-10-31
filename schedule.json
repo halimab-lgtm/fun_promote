@@ -71,24 +71,6 @@
       "status": "pending"
     },
     {
-      "date": "2026-10-30",
-      "id": "r05_rainy_sunday",
-      "type": "reel",
-      "status": "pending"
-    },
-    {
-      "date": "2026-10-30",
-      "id": "p05_weekend_picks",
-      "type": "carousel",
-      "status": "pending"
-    },
-    {
-      "date": "2026-10-31",
-      "id": "p06_hot_take",
-      "type": "image",
-      "status": "pending"
-    },
-    {
       "date": "2026-11-01",
       "id": "r06_fact_lotr",
       "type": "reel",
@@ -187,17 +169,38 @@
       "date": "2026-10-29",
       "id": "r17_fact_halloween",
       "type": "reel",
-      "status": "pending",
+      "status": "published",
       "note": "Halloween day three (tonight); IG + TikTok from app, Halloween theme",
-      "cover": "media/covers/r17_fact_halloween.jpg"
+      "cover": "media/covers/r17_fact_halloween.jpg",
+      "published_at": "2026-10-29T19:36+00:00",
+      "media_id": "18179550541447330",
+      "tiktok_video_id": "7702191020045258006"
     },
     {
-      "date": "2026-10-30",
+      "date": "2026-10-29",
       "id": "r18_guess_strangerthings",
       "type": "reel",
-      "status": "pending",
+      "status": "published",
       "note": "Halloween day four; IG + TikTok from app, Stranger Things theme",
-      "cover": "media/covers/r18_guess_strangerthings.jpg"
+      "cover": "media/covers/r18_guess_strangerthings.jpg",
+      "published_at": "2026-10-29T21:10+00:00",
+      "media_id": "18133698526744188"
+    },
+    {
+      "date": "2026-10-31",
+      "id": "r19_halloween_night",
+      "type": "reel",
+      "status": "pending",
+      "note": "Halloween night picks by fear level; IG + TikTok from app, ~18:30",
+      "cover": "media/covers/r19_halloween_night.jpg"
+    },
+    {
+      "date": "2026-10-31",
+      "id": "r20_halloween_night_fact",
+      "type": "reel",
+      "status": "pending",
+      "note": "Beetlejuice 17-minute fact; IG + TikTok from app, ~21:00",
+      "cover": "media/covers/r20_halloween_night_fact.jpg"
     }
   ],
   "stories": [
