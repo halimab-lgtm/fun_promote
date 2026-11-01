@@ -46,8 +46,9 @@
       "date": "2026-11-02",
       "id": "r04_guess_bttf",
       "type": "reel",
-      "status": "pending",
-      "cover": "media/covers/r04_guess_bttf.jpg"
+      "status": "retired",
+      "cover": "media/covers/r04_guess_bttf.jpg",
+      "note": "replaced by r21 fact version"
     },
     {
       "date": "2026-10-26",
@@ -65,55 +66,19 @@
       "cover": "media/covers/r03_fact_matrix.jpg"
     },
     {
-      "date": "2026-11-02",
-      "id": "p04_this_or_that",
-      "type": "image",
-      "status": "pending"
-    },
-    {
-      "date": "2026-11-01",
-      "id": "r06_fact_lotr",
-      "type": "reel",
-      "status": "pending"
-    },
-    {
-      "date": "2026-11-01",
-      "id": "p07_fact_jaws",
-      "type": "image",
-      "status": "pending"
-    },
-    {
-      "date": "2026-11-02",
-      "id": "r08_cinema_or_sofa",
-      "type": "reel",
-      "status": "pending"
-    },
-    {
-      "date": "2026-11-02",
-      "id": "p08_guess_series",
-      "type": "carousel",
-      "status": "pending"
-    },
-    {
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "id": "r09_guess_truman",
       "type": "reel",
       "status": "pending"
     },
     {
-      "date": "2026-11-03",
-      "id": "p09_rate",
-      "type": "image",
-      "status": "pending"
-    },
-    {
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "id": "r10_series_everyone_finished",
       "type": "reel",
       "status": "pending"
     },
     {
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "id": "r11_fact_godfather",
       "type": "reel",
       "status": "pending"
@@ -158,7 +123,7 @@
       "tiktok_video_id": "7701870624905366806"
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "id": "r16_fact_shining",
       "type": "reel",
       "status": "pending",
@@ -190,17 +155,27 @@
       "date": "2026-10-31",
       "id": "r19_halloween_night",
       "type": "reel",
-      "status": "pending",
+      "status": "published",
       "note": "Halloween night picks by fear level; IG + TikTok from app, ~18:30",
-      "cover": "media/covers/r19_halloween_night.jpg"
+      "cover": "media/covers/r19_halloween_night.jpg",
+      "published_at": "2026-10-31T16:40+00:00",
+      "media_id": "17935735011145031"
     },
     {
       "date": "2026-10-31",
       "id": "r20_halloween_night_fact",
       "type": "reel",
-      "status": "pending",
-      "note": "Beetlejuice 17-minute fact; IG + TikTok from app, ~21:00",
+      "status": "skipped",
+      "note": "not posted on 31 Oct; Halloween over, retire",
       "cover": "media/covers/r20_halloween_night_fact.jpg"
+    },
+    {
+      "date": "2026-11-01",
+      "id": "r21_fact_bttf",
+      "type": "reel",
+      "status": "pending",
+      "note": "IG + TikTok from app, BTTF theme",
+      "cover": "media/covers/r21_fact_bttf.jpg"
     }
   ],
   "stories": [

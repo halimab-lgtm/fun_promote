@@ -845,6 +845,37 @@
       ],
       "caption": "Halloween fact. In the 1988 Beetlejuice, Michael Keaton is on screen for about 17 minutes of a 92-minute film. Everyone remembers him as the lead.\n\n#halloween #beetlejuice #michaelkeaton #timburton #filmfacts #movietrivia #halloweenmovies #didyouknow #spookyseason #movies #reelsinstagram #explorepage #screnbites",
       "caption_tiktok": "Beetlejuice is in Beetlejuice for 17 minutes 👀 #beetlejuice #halloween #filmfacts #movietrivia #timburton #filmtok #fyp"
+    },
+    {
+      "id": "r21_fact_bttf",
+      "label": "FILM FACT",
+      "instant": true,
+      "silent": true,
+      "hook_size": 50,
+      "hook": "Film fact you didn't know.",
+      "scenes": [
+        {
+          "headline": "The DeLorean was almost a *fridge*.",
+          "poster": "back_to_the_future.jpg",
+          "anchor": 0.3,
+          "size": 84
+        },
+        {
+          "headline": "In the first Back to the Future script, the time machine was a refrigerator Marty climbed into. It was changed to a car so kids would not copy it.",
+          "backdrop": "back_to_the_future.jpg",
+          "dur": 5.2,
+          "size": 72
+        },
+        {
+          "headline": "And the car only hit 88 mph on paper. The real one barely did 60.",
+          "backdrop": "back_to_the_future.jpg",
+          "dur": 3.6,
+          "size": 84,
+          "sub": "What else do you think almost got cut?"
+        }
+      ],
+      "caption": "In the first Back to the Future script, the time machine was a fridge. It became a DeLorean so children would not climb into refrigerators. The car itself could barely reach 60 mph.\n\n#backtothefuture #filmfacts #movietrivia #didyouknow #80smovies #delorean #movies #film #cinema #movielovers #reelsinstagram #explorepage #screnbites",
+      "caption_tiktok": "The DeLorean was almost a fridge 👀 #backtothefuture #filmfacts #movietrivia #80smovies #filmtok #movietok #fyp"
     }
   ]
 }
