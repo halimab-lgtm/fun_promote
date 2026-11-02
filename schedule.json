@@ -197,5 +197,41 @@
     "username": "screnbites",
     "url": "https://www.tiktok.com/@screnbites",
     "note": "personal account; posting from the app only; stats via Windsor.ai"
-  }
+  },
+  "campaigns": [
+    {
+      "id": "bebe-rexha-clipping-1",
+      "url": "https://www.promote.fun/campaigns/bebe-rexha-clipping-1/clipper",
+      "brand": "Bebe Rexha / promote.fun",
+      "song": "New Religion",
+      "created": "2026-10-28",
+      "cpm_usd": 2.0,
+      "budget_left_usd": 4325.62,
+      "min_followers": 10,
+      "min_views_for_payout": 10000,
+      "max_payout_per_video_usd": 600,
+      "max_posts_per_page": 5,
+      "platforms": [
+        "instagram",
+        "tiktok"
+      ],
+      "rules": [
+        "use the provided clips of Bebe Rexha performing New Religion",
+        "on-screen text highlighting her voice/talent; live performance preferred",
+        "do not copy the example captions",
+        "do not delete posts after campaign ends",
+        "do not post the same video more than once",
+        "no Facebook views",
+        "no story boosting",
+        "majority T1 audience and engagement (40%+)",
+        "brand-safe niche",
+        "engagement public"
+      ],
+      "status": "apply; content requirements + 4 resources unlock after approval",
+      "accounts": {
+        "instagram": "screnbites (62 followers)",
+        "tiktok": "screnbites (1 follower)"
+      }
+    }
+  ]
 }
