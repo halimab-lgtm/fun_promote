@@ -184,10 +184,18 @@
       "date": "2026-11-02",
       "id": "r22_fact_matrix_sushi",
       "type": "reel",
-      "status": "published",
+      "status": "to_delete",
       "published_at": "2026-11-02T17:12+00:00",
       "media_id": "18099259691108324",
-      "note": "posted from Windsor.ai with generated sound bed; TikTok copy from app optional"
+      "note": "Reel posted 17:12 then replaced by carousel at user request; delete in app"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "p10_matrix_sushi",
+      "type": "carousel",
+      "status": "published",
+      "published_at": "2026-11-02T17:20+00:00",
+      "media_id": "18080602352534555"
     }
   ],
   "stories": [
