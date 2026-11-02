@@ -876,6 +876,37 @@
       ],
       "caption": "In the first Back to the Future script, the time machine was a fridge. It became a DeLorean so children would not climb into refrigerators. The car itself could barely reach 60 mph.\n\n#backtothefuture #filmfacts #movietrivia #didyouknow #80smovies #delorean #movies #film #cinema #movielovers #reelsinstagram #explorepage #screnbites",
       "caption_tiktok": "The DeLorean was almost a fridge 👀 #backtothefuture #filmfacts #movietrivia #80smovies #filmtok #movietok #fyp"
+    },
+    {
+      "id": "r22_fact_matrix_sushi",
+      "label": "FILM FACT",
+      "instant": true,
+      "silent": false,
+      "coral": true,
+      "hook_size": 50,
+      "hook": "Film fact you didn't know.",
+      "scenes": [
+        {
+          "headline": "The Matrix code is *sushi recipes*.",
+          "poster": "the_matrix.jpg",
+          "anchor": 0.3,
+          "size": 88
+        },
+        {
+          "headline": "The green falling characters were scanned from the production designer's wife's Japanese cookbooks, flipped and stylised.",
+          "backdrop": "the_matrix.jpg",
+          "dur": 5.0,
+          "size": 72
+        },
+        {
+          "headline": "The code behind the whole simulation is dinner.",
+          "backdrop": "the_matrix.jpg",
+          "dur": 3.4,
+          "size": 88,
+          "sub": "Which film detail ruined the magic for you?"
+        }
+      ],
+      "caption": "The falling green code in The Matrix is not computer language. The production designer scanned characters from his wife's Japanese cookbooks, mostly sushi recipes, flipped them and set them falling.\n\n#thematrix #filmfacts #movietrivia #didyouknow #keanureeves #behindthescenes #movies #film #cinema #movielovers #reelsinstagram #explorepage #screnbites"
     }
   ]
 }
