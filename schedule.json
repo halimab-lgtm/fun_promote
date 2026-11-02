@@ -59,11 +59,12 @@
       "media_id": "17882570562628852"
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-11-07",
       "id": "r03_fact_matrix",
       "type": "reel",
       "status": "pending",
-      "cover": "media/covers/r03_fact_matrix.jpg"
+      "cover": "media/covers/r03_fact_matrix.jpg",
+      "note": "bullet-time fact; spare"
     },
     {
       "date": "2026-11-04",
@@ -173,9 +174,20 @@
       "date": "2026-11-01",
       "id": "r21_fact_bttf",
       "type": "reel",
-      "status": "pending",
+      "status": "published",
       "note": "IG + TikTok from app, BTTF theme",
-      "cover": "media/covers/r21_fact_bttf.jpg"
+      "cover": "media/covers/r21_fact_bttf.jpg",
+      "published_at": "2026-11-01T18:22+00:00",
+      "media_id": "18069177416790690"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "r22_fact_matrix_sushi",
+      "type": "reel",
+      "status": "published",
+      "published_at": "2026-11-02T17:12+00:00",
+      "media_id": "18099259691108324",
+      "note": "posted from Windsor.ai with generated sound bed; TikTok copy from app optional"
     }
   ],
   "stories": [
