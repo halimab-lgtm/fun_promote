@@ -128,8 +128,8 @@
       "date": "2026-11-03",
       "id": "r16_fact_shining",
       "type": "reel",
-      "status": "pending",
-      "note": "Shining typewriter fact; relabelled FILM FACT (post-Halloween); 3 Nov, post from app with Shining theme",
+      "status": "retired",
+      "note": "replaced by p12 carousel at user request",
       "cover": "media/covers/r16_fact_shining.jpg"
     },
     {
@@ -210,6 +210,14 @@
         "media/feed/p11_guess_truman_04.jpg",
         "media/feed/p11_guess_truman_05.jpg"
       ]
+    },
+    {
+      "date": "2026-11-03",
+      "id": "p12_shining_typewriter",
+      "type": "carousel",
+      "status": "published",
+      "published_at": "2026-11-03T18:30+00:00",
+      "media_id": "18422467777158684"
     }
   ],
   "stories": [
