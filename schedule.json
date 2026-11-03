@@ -70,7 +70,8 @@
       "date": "2026-11-04",
       "id": "r09_guess_truman",
       "type": "reel",
-      "status": "pending"
+      "status": "retired",
+      "note": "replaced by p11 carousel at user request"
     },
     {
       "date": "2026-11-05",
@@ -196,6 +197,19 @@
       "status": "published",
       "published_at": "2026-11-02T17:20+00:00",
       "media_id": "18080602352534555"
+    },
+    {
+      "date": "2026-11-04",
+      "id": "p11_guess_truman",
+      "type": "carousel",
+      "status": "ready",
+      "slides": [
+        "media/feed/p11_guess_truman_01.jpg",
+        "media/feed/p11_guess_truman_02.jpg",
+        "media/feed/p11_guess_truman_03.jpg",
+        "media/feed/p11_guess_truman_04.jpg",
+        "media/feed/p11_guess_truman_05.jpg"
+      ]
     }
   ],
   "stories": [
