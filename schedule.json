@@ -77,7 +77,8 @@
       "date": "2026-11-05",
       "id": "r10_series_everyone_finished",
       "type": "reel",
-      "status": "pending"
+      "status": "retired",
+      "note": "replaced by r23"
     },
     {
       "date": "2026-11-06",
@@ -199,7 +200,7 @@
       "media_id": "18080602352534555"
     },
     {
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "id": "p11_guess_truman",
       "type": "carousel",
       "status": "ready",
@@ -209,7 +210,8 @@
         "media/feed/p11_guess_truman_03.jpg",
         "media/feed/p11_guess_truman_04.jpg",
         "media/feed/p11_guess_truman_05.jpg"
-      ]
+      ],
+      "note": "moved to 5 Nov; 4 Nov went to r23"
     },
     {
       "date": "2026-11-03",
@@ -218,6 +220,14 @@
       "status": "published",
       "published_at": "2026-11-03T18:30+00:00",
       "media_id": "18422467777158684"
+    },
+    {
+      "date": "2026-11-04",
+      "id": "r23_not_american",
+      "type": "reel",
+      "status": "ready",
+      "cover": "media/covers/r23_not_american.jpg",
+      "note": "question-first test; IG + TikTok from app, silent, add music"
     }
   ],
   "stories": [
