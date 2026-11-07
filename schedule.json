@@ -232,7 +232,7 @@
       "media_id": "18037913792904477"
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "id": "r24_fact_the_bear",
       "type": "reel",
       "status": "pending",
@@ -248,6 +248,14 @@
       "note": "weekly film-news format; posted via Windsor, no music",
       "published_at": "2026-11-07T17:08+00:00",
       "media_id": "17965018050235020"
+    },
+    {
+      "date": "2026-11-08",
+      "id": "r26_fact_squid_game",
+      "type": "reel",
+      "status": "ready",
+      "cover": "media/covers/r26_fact_squid_game.jpg",
+      "note": "money/underdog hook test; poster-first; post from app 19:00 with Squid Game theme, or via Windsor on request"
     }
   ],
   "stories": [
