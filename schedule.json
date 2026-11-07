@@ -232,12 +232,20 @@
       "media_id": "18037913792904477"
     },
     {
-      "date": "2026-11-05",
+      "date": "2026-11-08",
       "id": "r24_fact_the_bear",
       "type": "reel",
-      "status": "ready",
+      "status": "pending",
       "cover": "media/covers/r24_fact_the_bear.jpg",
-      "note": "poster-first fact format; IG + TikTok from app, silent, add music"
+      "note": "built, not posted 5 Nov; spare"
+    },
+    {
+      "date": "2026-11-07",
+      "id": "r25_news_week45",
+      "type": "reel",
+      "status": "ready",
+      "cover": "media/covers/r25_news_week45.jpg",
+      "note": "new weekly format: film news in 15 s, Saturdays; text style, no posters needed; IG + TikTok from app, silent"
     }
   ],
   "stories": [
@@ -295,5 +303,8 @@
         "tiktok": "screnbites (1 follower)"
       }
     }
-  ]
+  ],
+  "weekly_formats": {
+    "saturday": "Film news in 15 seconds (4 items from the week, end with 1-4 vote)"
+  }
 }
