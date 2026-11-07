@@ -243,9 +243,11 @@
       "date": "2026-11-07",
       "id": "r25_news_week45",
       "type": "reel",
-      "status": "ready",
+      "status": "published",
       "cover": "media/covers/r25_news_week45.jpg",
-      "note": "new weekly format: film news in 15 s, Saturdays; text style, no posters needed; IG + TikTok from app, silent"
+      "note": "weekly film-news format; posted via Windsor, no music",
+      "published_at": "2026-11-07T17:08+00:00",
+      "media_id": "17965018050235020"
     }
   ],
   "stories": [
