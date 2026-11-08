@@ -245,7 +245,7 @@
       "type": "reel",
       "status": "published",
       "cover": "media/covers/r25_news_week45.jpg",
-      "note": "weekly film-news format; posted via Windsor, no music",
+      "note": "weekly film-news format; posted via Windsor, no music; 83% skip, text-only opening fails; next time poster on frame one",
       "published_at": "2026-11-07T17:08+00:00",
       "media_id": "17965018050235020"
     },
@@ -253,9 +253,19 @@
       "date": "2026-11-08",
       "id": "r26_fact_squid_game",
       "type": "reel",
-      "status": "ready",
+      "status": "published",
       "cover": "media/covers/r26_fact_squid_game.jpg",
-      "note": "money/underdog hook test; poster-first; post from app 19:00 with Squid Game theme, or via Windsor on request"
+      "note": "posted by user with music; 50% skip, best retention so far",
+      "published_at": "2026-11-07T23:07+00:00",
+      "media_id": "18647326438025312"
+    },
+    {
+      "date": "2026-11-08",
+      "id": "r27_fact_friends",
+      "type": "reel",
+      "status": "ready",
+      "cover": "media/covers/r27_fact_friends.jpg",
+      "note": "trend tie-in (Matthew Perry doc #1); money hook; post from app 19:00 with Friends theme"
     }
   ],
   "stories": [
