@@ -263,9 +263,19 @@
       "date": "2026-11-08",
       "id": "r27_fact_friends",
       "type": "reel",
-      "status": "ready",
+      "status": "published",
       "cover": "media/covers/r27_fact_friends.jpg",
-      "note": "trend tie-in (Matthew Perry doc #1); money hook; post from app 19:00 with Friends theme"
+      "note": "157 reach, 79% skip; number hook weaker than personal-story hook (Squid Game 49%)",
+      "published_at": "2026-11-08T19:00+00:00",
+      "media_id": "17927468250200710"
+    },
+    {
+      "date": "2026-11-09",
+      "id": "r28_fact_severance",
+      "type": "reel",
+      "status": "ready",
+      "cover": "media/covers/r28_fact_severance.jpg",
+      "note": "personal-story hook, Monday tie-in; post from app with Severance theme"
     }
   ],
   "stories": [
