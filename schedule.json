@@ -280,12 +280,20 @@
       "media_id": "18093768488680256"
     },
     {
-      "date": "2026-11-10",
+      "date": "2026-11-12",
       "id": "r29_lie_stranger_things",
       "type": "reel",
-      "status": "ready",
+      "status": "pending",
       "cover": "media/covers/r29_lie_stranger_things.jpg",
-      "note": "new format: two truths, one lie; aim is lower skip + comments; post from app with Stranger Things theme"
+      "note": "spare; user wanted a new release on 10 Nov"
+    },
+    {
+      "date": "2026-11-10",
+      "id": "r30_lie_rings_of_power",
+      "type": "reel",
+      "status": "ready",
+      "cover": "media/covers/r30_lie_rings_of_power.jpg",
+      "note": "two truths one lie; season 3 out 11 Nov; post from app with LOTR music"
     }
   ],
   "stories": [
@@ -346,5 +354,6 @@
   ],
   "weekly_formats": {
     "saturday": "Film news in 15 seconds (4 items from the week, end with 1-4 vote)"
-  }
+  },
+  "content_rule": "User wants new releases, not old titles: pick each day's subject from that week's premieres."
 }
