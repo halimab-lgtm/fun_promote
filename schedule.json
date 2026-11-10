@@ -273,9 +273,19 @@
       "date": "2026-11-09",
       "id": "r28_fact_severance",
       "type": "reel",
-      "status": "ready",
+      "status": "published",
       "cover": "media/covers/r28_fact_severance.jpg",
-      "note": "personal-story hook, Monday tie-in; post from app with Severance theme"
+      "note": "119 reach, 79% skip; personal-story hook did not repeat Squid Game's 49%",
+      "published_at": "2026-11-09T19:55+00:00",
+      "media_id": "18093768488680256"
+    },
+    {
+      "date": "2026-11-10",
+      "id": "r29_lie_stranger_things",
+      "type": "reel",
+      "status": "ready",
+      "cover": "media/covers/r29_lie_stranger_things.jpg",
+      "note": "new format: two truths, one lie; aim is lower skip + comments; post from app with Stranger Things theme"
     }
   ],
   "stories": [
