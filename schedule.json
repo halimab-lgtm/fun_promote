@@ -291,9 +291,19 @@
       "date": "2026-11-10",
       "id": "r30_lie_rings_of_power",
       "type": "reel",
-      "status": "ready",
+      "status": "published",
       "cover": "media/covers/r30_lie_rings_of_power.jpg",
-      "note": "two truths one lie; season 3 out 11 Nov; post from app with LOTR music"
+      "note": "141 reach, 71% skip",
+      "published_at": "2026-11-10T19:42+00:00",
+      "media_id": "18350666527283817"
+    },
+    {
+      "date": "2026-11-11",
+      "id": "r31_lie_godzilla",
+      "type": "reel",
+      "status": "ready",
+      "cover": "media/covers/r31_lie_godzilla.jpg",
+      "note": "two truths one lie; in cinemas since 6 Nov; post from app ~20:30"
     }
   ],
   "stories": [
@@ -355,5 +365,24 @@
   "weekly_formats": {
     "saturday": "Film news in 15 seconds (4 items from the week, end with 1-4 vote)"
   },
-  "content_rule": "User wants new releases, not old titles: pick each day's subject from that week's premieres."
+  "content_rule": "User wants new releases, not old titles: pick each day's subject from that week's premieres.",
+  "audience": {
+    "as_of": "2026-11-11",
+    "followers": 186,
+    "countries": {
+      "GB": 44,
+      "US": 40,
+      "IE": 30,
+      "CA": 30,
+      "AU": 15,
+      "other": 27
+    },
+    "gender": {
+      "men": "60%",
+      "women": "18%",
+      "unknown": "23%"
+    },
+    "age": "68% aged 35-54",
+    "post_time": "20:00 Dublin"
+  }
 }
