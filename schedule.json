@@ -301,9 +301,19 @@
       "date": "2026-11-11",
       "id": "r31_lie_godzilla",
       "type": "reel",
-      "status": "ready",
+      "status": "published",
       "cover": "media/covers/r31_lie_godzilla.jpg",
-      "note": "two truths one lie; in cinemas since 6 Nov; post from app ~20:30"
+      "note": "155 reach, 60% skip, best of the format so far",
+      "published_at": "2026-11-11T21:10+00:00",
+      "media_id": "18136548238741242"
+    },
+    {
+      "date": "2026-11-12",
+      "id": "r32_lie_121212",
+      "type": "reel",
+      "status": "ready",
+      "cover": "media/covers/r32_lie_121212.jpg",
+      "note": "two truths one lie; series starts 13 Nov on Apple TV"
     }
   ],
   "stories": [
