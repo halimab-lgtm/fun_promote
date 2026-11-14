@@ -311,9 +311,19 @@
       "date": "2026-11-12",
       "id": "r32_lie_121212",
       "type": "reel",
-      "status": "ready",
+      "status": "published",
       "cover": "media/covers/r32_lie_121212.jpg",
-      "note": "two truths one lie; series starts 13 Nov on Apple TV"
+      "note": "132 reach, 74% skip; unknown title did worse than Godzilla",
+      "published_at": "2026-11-12T20:45+00:00",
+      "media_id": "18079624280443784"
+    },
+    {
+      "date": "2026-11-14",
+      "id": "r33_lie_rocky",
+      "type": "reel",
+      "status": "ready",
+      "cover": "media/covers/r33_lie_rocky.jpg",
+      "note": "two truths one lie; I Play Rocky in cinemas 13 Nov (wide 20 Nov)"
     }
   ],
   "stories": [
